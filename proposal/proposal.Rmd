@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "Midterm Exam"
 author: 
-  - Last Name, First Name[^1]
+  - Sharifovi Dilafuruz
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -32,28 +32,43 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
-
-# Important Information About Midterm
-
-\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
-
-**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
-
-**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 16 April 2023, 23:59.**
-
-\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
+**Student ID: 20080946**, https://github.com/DilafuruzSharifovi/Midterm-Exam.git
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
 
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+**Research question:**
 
-In this section, mention the purpose and importance of your work in a few paragraphs.
+Were there enough life boats to save all of them and who got a quicker access to these boats?
 
+As a beginner in my project, I wanna to tell you how I found the dataset. Primarly, I logged into “Github”. I was interested in the “Awesome Public Dataset” from the sites you shared in the data section, and after researching it, I found the “Titanic” topic, then I edited it by downloading the titanic.zip file. Thus, I prepared 100 observations and 12 variables with (passengerld, survived, pclass, name, both sexes, age, sibsp, parch, ticket, fare, cabin, embarked). Finally, I researched 4 articles related to my topic and I found a research question based on these articles. 
+
+The main reason I choose this topic is that it is a topic that is of interest and on the agenda of everyone and also I find the dataset easily, because some people think about unique topics, but they can’t find a dataset for their project. 
+
+The sinking of the Titanic in the early hours of 15 April 1912 was the worst wreck the world has ever known. There were more than 1,500 people who died when the ship went down on one of the most beautiful April nights in the North Atlantic. The scale of the disaster shocked the world; the loss of life was simply horrendous.  
+
+The sinking seemed worse because it was the Titanic that went down. It was the most modern, luxurious and largest passenger ship ever built. The builders, Harland and Wolff, boasted that they had incorporated every known engineering feature that would make it safer. The trade press said it was virtually unsinkable. Its owners, the White Star Line, played on its reputation for safety to run alongside the luxurious fittings of the new ship, its enormous size and its possession of the coveted status as an RMS in their sales publicity. 
+
+The lives lost were enough to make headlines on their own. John Jacob Astor was one of the richest men in the world, along with Benjamin Guggenheim, Isidor Straus and Harry Widener. Politician and society figures were lost, each of whom would have rated a newspaper obituary in their own right. The man who designed the Titanic and the man who commanded her were both lost. The hundreds upon hundreds of more humble folk included fathers, sons, mothers, sisters and cousins. Children were orphans, wives were widowed and husbands were desolate. A family was wiped out by the water.  
+
+ The chairman of the White Star Line, Joseph Bruce Ismay, was one of the few survivors of the Titanic.  
+
+Those who did survive were too busy trying to save themselves and others to pay attention to what strangers were doing. The crew members and terrified passengers did not have time or inclination to check their watches as the disaster unfolded. It is generally agreed that the ship hit the iceberg at 11.40 pm and that it finally sank at 2.20 am, but otherwise all events and incidents can be placed only approximately.  
+
+There was great enthusiasm to name and reward the heroes of the hour, but nobody wanted to take responsibility for the disaster. The men who owned, controlled and regulated the Titanic did their best to blame each other, the weather, bad luck and those who died.  
+
+ In a word, there were mysteries, legends, rumours and  a lot of questions surrounding the sinking of the Titanic. Some of them were answered. The events of that terrible night are looked at again in this book. It deals with the way the two official inquiries sought to answer the questions raised by the sinking and seeks to decide if those answers were fair and accurate in the light of new facts uncovered on the wreck.
+ 
 ## Literature Review
 
 In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+
+new citation for my article @aldridge2009sinking or I can type [@aldridge2009sinking]
+
+new citation for my article @Deitz1998 or I can type [@Deitz1998]
+
+new citation for my article @gracie2005titanic or I can type [@gracie2005titanic]
+
+new citation for my article @matthews2011titanic or I can type [@matthews2011titanic]
 
 
 
