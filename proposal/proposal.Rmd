@@ -1,5 +1,5 @@
 ---
-title: "Midterm Exam"
+title: "Titanic"
 author: 
   - Sharifovi Dilafuruz
 bibliography: ../bibliography/biblio.bib
